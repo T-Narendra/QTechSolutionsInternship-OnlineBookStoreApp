@@ -5,8 +5,8 @@ A simple Online Bookstore application built using Core Java and JDBC for databas
 Users can search for books by category or title.
 
 ## 🚀 Features
-- Search books by category (case-insensitive)
-- Search books by title (case-insensitive)
+- Search books by category 
+- Search books by title
 - MySQL database connectivity using JDBC
 - Structured project with DAO pattern
 
